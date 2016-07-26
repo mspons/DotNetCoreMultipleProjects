@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Application.DataAccess
+﻿namespace Application.DataAccess
 {
     public class DummyDatabase
     {

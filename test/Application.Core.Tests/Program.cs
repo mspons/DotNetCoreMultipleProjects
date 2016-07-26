@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace Application.Core.Tests
 {
     public class Program
     {
